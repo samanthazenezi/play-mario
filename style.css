@@ -224,6 +224,9 @@
         height: 100vh;
         border-radius: 0;
     }
+    .game-board button {
+        cursor: grab;
+    }
     .nuvens {
         width: 250px;
     }
